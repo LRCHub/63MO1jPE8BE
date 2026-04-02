@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tomorrow (A Better You, Better Me)",
+  "base_artist": "Quincy Jones",
+  "createdAt": "2026-04-02T06:53:17.532569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/01_Tomorrow_(A_Better_You,_Better_Me)_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Jones, Quincy",
+      "has_synced": false,
+      "path": "select/02_Tomorrow_(A_Better_You,_Better_Me)_Jones,_Quincy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Lexi",
+      "has_synced": false,
+      "path": "select/03_Tomorrow_(A_Better_You,_Better_Me)_Lexi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Quincy Jones & Tevin Campbell",
+      "has_synced": true,
+      "path": "select/04_Tomorrow_(A_Better_You,_Better_Me)_Quincy_Jones_&_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me) (Feat. Tevin Campbell)",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/05_Tomorrow_(A_Better_You,_Better_Me)_(Feat._Tevin_Campbell)_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Quincy Jones w",
+      "has_synced": false,
+      "path": "select/06_Tomorrow_(A_Better_You,_Better_Me)_Quincy_Jones_w.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Quincy Jones feat. Tevin Campbell",
+      "has_synced": true,
+      "path": "select/07_Tomorrow_(A_Better_You,_Better_Me)_Quincy_Jones_feat._Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me) (Album Version)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/08_Tomorrow_(A_Better_You,_Better_Me)_(Album_Version)_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Quincy Jones / Tevin Campbell",
+      "has_synced": true,
+      "path": "select/09_Tomorrow_(A_Better_You,_Better_Me)_Quincy_Jones___Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me) (Album Version)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/10_Tomorrow_(A_Better_You,_Better_Me)_(Album_Version)_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me) [feat. Tevin Campbell]",
+      "artist": "Quincy Jones",
+      "has_synced": true,
+      "path": "select/11_Tomorrow_(A_Better_You,_Better_Me)_[feat._Tevin_Campbell]_Quincy_Jones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tomorrow (A Better You, Better Me)",
+      "artist": "Quincy Jones w/Tevin Campbell",
+      "has_synced": true,
+      "path": "select/12_Tomorrow_(A_Better_You,_Better_Me)_Quincy_Jones_w_Tevin_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tomorrow (Better You, Better Me)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/13_Tomorrow_(Better_You,_Better_Me)_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "12 Tomorrow (Better You, Better Me)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/14_12_Tomorrow_(Better_You,_Better_Me)_Quincy_Jones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tomorrow (Better You, Better Me)",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/pl_01_Tomorrow_(Better_You,_Better_Me)_Quincy_Jones.txt"
+    }
+  ]
+}
